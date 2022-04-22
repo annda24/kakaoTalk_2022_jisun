@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kakaoTalk_2022_jisun/static/css/main.72cb9070.css",
+    "main.js": "/kakaoTalk_2022_jisun/static/js/main.ee7d0c84.js",
+    "static/js/787.49cd0d32.chunk.js": "/kakaoTalk_2022_jisun/static/js/787.49cd0d32.chunk.js",
+    "static/media/kakaofriends.png": "/kakaoTalk_2022_jisun/static/media/kakaofriends.84375bb9f89d79ccd760.png",
+    "static/media/path.png": "/kakaoTalk_2022_jisun/static/media/path.7d00edf73f07bdcecc6d.png",
+    "static/media/kakaostory.png": "/kakaoTalk_2022_jisun/static/media/kakaostory.572f3ce5bf10fbdaac9d.png",
+    "static/media/bg_default.png": "/kakaoTalk_2022_jisun/static/media/bg_default.82687b4e75ad8b89fa96.png",
+    "index.html": "/kakaoTalk_2022_jisun/index.html",
+    "main.72cb9070.css.map": "/kakaoTalk_2022_jisun/static/css/main.72cb9070.css.map",
+    "main.ee7d0c84.js.map": "/kakaoTalk_2022_jisun/static/js/main.ee7d0c84.js.map",
+    "787.49cd0d32.chunk.js.map": "/kakaoTalk_2022_jisun/static/js/787.49cd0d32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72cb9070.css",
+    "static/js/main.ee7d0c84.js"
+  ]
+}
