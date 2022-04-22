@@ -1,0 +1,63 @@
+// Header.scss
+#root > header {
+    position:fixed;left:0;top:0;width:100%;height:64px;z-index:1;
+    display:flex;flex-direction:column;
+    color:#fff;padding:0 15px;box-sizing:border-box;
+    
+    &#Friends   {background:#513736;}
+    &#Chats     {background:#513736;}
+    &#Find      {background:#513736;}
+    &#More      {background:#513736;}
+    &#Profile {
+        .title_bar .left_item a {opacity:1;font-size:20px;}
+    }
+    &#Chatting {
+        color:#000;background-color:#a1c0d5;border-bottom:1px solid #96acba;
+
+        .title_bar>.left_item>a {color:#000;opacity:1;font-size:24px;}
+        .title_bar>.right_item>a {
+            color:#000;font-size:16px;
+            i {padding-left:5px;}
+        }  
+    }
+
+    /* status_bar */
+    .status_bar {
+        display:flex;flex-direction:row;justify-content:space-between;align-items:center;
+        height:37.5%;/* 64px의 37.5% : 24px*/
+
+        div {
+            flex:1;
+
+            &.left_item {text-align:left;}
+            &.center_item {text-align:center;}
+            &.right_item {text-align:right;}
+            * {padding:3px;}
+        }
+    }
+
+    /* title_bar */
+    .title_bar {
+        display:flex;flex-direction:row;justify-content:space-between;align-items:center;
+        height:62.5%; /* 64px의 62.5% : 40px*/
+
+        * {flex:1;font-size:16px;}
+        h1 {
+            order:2;text-align:center;
+
+            span {color:#f8ea65;}
+        }
+        div{
+            &.left_item {
+                order:1;text-align:left;
+
+                a {color:#fff;opacity:0.5;}
+            }
+            &.right_item {
+                order:3;text-align:right;
+
+                a {color:#fff;}
+            }
+        }
+    }
+}

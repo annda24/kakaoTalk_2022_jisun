@@ -1,0 +1,42 @@
+[
+    {   "id":"1",
+        "img":"https://api.uifaces.co/our-content/donated/W9V6aXAc.jpg",
+        "bg":"https://i.pinimg.com/564x/71/27/6c/71276cab1c2692a7f8a2d065ced63a50.jpg" 
+    },
+    {   "id":"2",
+        "img":"https://images.pexels.com/photos/2613260/pexels-photo-2613260.jpeg?auto=compress&cs=tinysrgb&crop=faces&fit=crop&h=200&w=200",
+        "bg":"https://i.pinimg.com/564x/c2/c2/20/c2c2201db469e78f41345d5e561d0dab.jpg" 
+    },
+    {   "id":"3",
+        "img":"https://images.pexels.com/photos/247917/pexels-photo-247917.jpeg?crop=faces&fit=crop&h=200&w=200&auto=compress&cs=tinysrgb",
+        "bg":"https://i.pinimg.com/474x/69/23/8a/69238a52b15983de799193d0c037de09.jpg" 
+    },
+    {   "id":"4",
+        "img":"https://images.unsplash.com/photo-1520810627419-35e362c5dc07?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+        "bg":"https://i.pinimg.com/564x/4c/6e/bb/4c6ebbce086be433d90dcd1499516ae0.jpg" 
+    },
+    {   "id":"5",
+        "img":"https://images.pexels.com/photos/1758845/pexels-photo-1758845.jpeg?auto=compress&cs=tinysrgb&crop=faces&fit=crop&h=200&w=200",
+        "bg":"https://i.pinimg.com/564x/a2/6b/34/a26b34e69bc903e2a12cd0217f148d02.jpg" 
+    },
+    {   "id":"6",
+        "img":"https://i.imgur.com/h78QOSF.jpg",
+        "bg":"https://i.pinimg.com/736x/51/f3/a1/51f3a1668c9790689ca0063eb7bcedcb.jpg" 
+    },
+    {   "id":"7",
+        "img":"https://images.unsplash.com/photo-1493136289900-28660d718589?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+        "bg":"https://i.pinimg.com/736x/00/99/a4/0099a484f8745ca06d84707780edd92e.jpg" 
+    },
+    {   "id":"8",
+        "img":"https://randomuser.me/api/portraits/men/66.jpg",
+        "bg":"https://i.pinimg.com/564x/bb/57/1a/bb571ae2c97458708155956fa5f2801e.jpg"
+    },
+    {   "id":"9",
+        "img":"https://images.unsplash.com/photo-1493666438817-866a91353ca9?ixlib=rb-0.3.5&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&s=b616b2c5b373a80ffc9636ba24f7a4a9",
+        "bg":"https://i.pinimg.com/736x/ec/9e/47/ec9e47bff2d952561afefef371a17ee1.jpg"
+    },
+    {   "id":"10",
+        "img":"https://i.pinimg.com/564x/fd/29/61/fd2961dd315177dd7649855c97a6a4e1.jpg",
+        "bg":"https://i.pinimg.com/564x/af/cf/c2/afcfc238a57b55b8e44bc9819de0e4c3.jpg"
+    }
+]
